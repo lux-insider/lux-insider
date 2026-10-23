@@ -1,0 +1,96 @@
+### Olá! 👋
+
+Desenvolvedor independente, focado em **ferramentas para Xbox e Xbox 360**:
+editores de save, utilitários de imagens de disco e engenharia reversa de
+formatos de jogos. Tudo em **português**, gratuito, com código aberto e
+testado no console de verdade.
+
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Slint](https://img.shields.io/badge/Slint-2379F4?logo=slint&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS4zdjExLjNIMHpNMTIuNyAwSDI0djExLjNIMTIuN3pNMCAxMi43aDExLjNWMjRIMHpNMTIuNyAxMi43SDI0VjI0SDEyLjd6Ii8%2BPC9zdmc%2B)
+
+---
+
+## 🎮 Editores de save
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [BIOHAZARD 5 SAVE EDITOR](https://github.com/lux-insider/biohazard5-save-editor)
+
+<a href="https://github.com/lux-insider/biohazard5-save-editor"><img src="https://raw.githubusercontent.com/lux-insider/biohazard5-save-editor/main/docs/prints/banner.jpg" alt="BIOHAZARD 5 SAVE EDITOR"></a>
+
+Editor de save do **Resident Evil 5** para Xbox 360 e PC (Steam), com o
+visual do jogo: Gold, desbloqueios, inventário, slots do Chris e da Sheva e
+assinatura automática do save.
+
+</td>
+<td width="50%" valign="top">
+
+### [BIOHAZARD 6 SAVE EDITOR](https://github.com/lux-insider/biohazard6-save-editor)
+
+<a href="https://github.com/lux-insider/biohazard6-save-editor"><img src="https://raw.githubusercontent.com/lux-insider/biohazard6-save-editor/main/docs/prints/inicio.jpg" alt="BIOHAZARD 6 SAVE EDITOR"></a>
+
+Editor de save do **Resident Evil 6** para Xbox 360 e PC (Steam): inventário
+dos 8 personagens com os limites do jogo, pontos e as 96 habilidades.
+
+</td>
+</tr>
+</table>
+
+## 💿 Imagens de disco de Xbox e Xbox 360
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [xiso-manager](https://github.com/lux-insider/xiso-manager)
+
+<a href="https://github.com/lux-insider/xiso-manager"><img src="https://raw.githubusercontent.com/lux-insider/xiso-manager/main/docs/banner.png" alt="xiso-manager"></a>
+
+Gerenciador de ISOs com **janela** e **menu no terminal**: biblioteca de
+jogos, extrair, criar, verificar com o Redump e converter para GOD.
+
+</td>
+<td width="50%" valign="top">
+
+### [iso2god-pt](https://github.com/lux-insider/iso2god-pt)
+
+<a href="https://github.com/lux-insider/iso2god-pt"><img src="https://raw.githubusercontent.com/lux-insider/iso2god-pt/main/docs/menu.png" alt="iso2god-pt"></a>
+
+Conversor de ISO para **GOD** (Games on Demand), com assistente, conversão em
+lote e saída em JSON.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [extract-xiso-pt](https://github.com/lux-insider/extract-xiso-pt)
+
+Lista, extrai, cria, reescreve e verifica imagens **XDVDFS** de Xbox e
+Xbox 360, com conferência pelo `.dat` do Redump. Escrito do zero a partir da
+documentação do formato.
+
+</td>
+<td width="50%" valign="top">
+
+### [Trainer RE5 TU5](https://github.com/lux-insider/trainer-re5-tu5)
+
+<a href="https://github.com/lux-insider/trainer-re5-tu5"><img src="https://raw.githubusercontent.com/lux-insider/trainer-re5-tu5/main/docs/prints/caixa-codigo.png" alt="Trainer RE5 TU5"></a>
+
+Trainer do **Resident Evil 5** (TU5) para Xbox 360 RGH/JTAG, que confere o
+jogo e cada instrução antes de alterar a memória.
+
+</td>
+</tr>
+</table>
+
+---
+
+<sub>Resident Evil / BIOHAZARD © CAPCOM. Xbox e Xbox 360 são marcas da
+Microsoft. Projetos de fã, gratuitos e sem ligação com essas empresas.</sub>
