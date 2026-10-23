@@ -60,7 +60,7 @@ jogos, extrair, criar, verificar com o Redump e converter para GOD.
 
 ### [iso2god-pt](https://github.com/lux-insider/iso2god-pt)
 
-<a href="https://github.com/lux-insider/iso2god-pt"><img src="https://raw.githubusercontent.com/lux-insider/iso2god-pt/main/docs/menu.png" alt="iso2god-pt"></a>
+<a href="https://github.com/lux-insider/iso2god-pt"><img src="https://raw.githubusercontent.com/lux-insider/iso2god-pt/main/docs/banner.png" alt="iso2god-pt"></a>
 
 Conversor de ISO para **GOD** (Games on Demand), com assistente, conversão em
 lote e saída em JSON.
@@ -71,6 +71,8 @@ lote e saída em JSON.
 <td width="50%" valign="top">
 
 ### [extract-xiso-pt](https://github.com/lux-insider/extract-xiso-pt)
+
+<a href="https://github.com/lux-insider/extract-xiso-pt"><img src="https://raw.githubusercontent.com/lux-insider/extract-xiso-pt/main/docs/banner.png" alt="extract-xiso-pt"></a>
 
 Lista, extrai, cria, reescreve e verifica imagens **XDVDFS** de Xbox e
 Xbox 360, com conferência pelo `.dat` do Redump. Escrito do zero a partir da
