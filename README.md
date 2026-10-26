@@ -18,7 +18,18 @@ testado no console de verdade.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### [BIOHAZARD 4 SAVE EDITOR](https://github.com/lux-insider/biohazard4-save-editor)
+
+<a href="https://github.com/lux-insider/biohazard4-save-editor"><img src="https://raw.githubusercontent.com/lux-insider/biohazard4-save-editor/main/docs/prints/inicio.jpg" alt="BIOHAZARD 4 SAVE EDITOR"></a>
+
+Editor de save do **Resident Evil 4 HD** para Xbox 360, com o visual do
+jogo: pesetas, vida, roupas e a maleta dos 20 slots, com armas, melhorias,
+munição e tesouros.
+
+</td>
+<td width="33%" valign="top">
 
 ### [BIOHAZARD 5 SAVE EDITOR](https://github.com/lux-insider/biohazard5-save-editor)
 
@@ -29,7 +40,7 @@ visual do jogo: Gold, desbloqueios, inventário, slots do Chris e da Sheva e
 assinatura automática do save.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [BIOHAZARD 6 SAVE EDITOR](https://github.com/lux-insider/biohazard6-save-editor)
 
@@ -46,7 +57,7 @@ dos 8 personagens com os limites do jogo, pontos e as 96 habilidades.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [xiso-manager](https://github.com/lux-insider/xiso-manager)
 
@@ -56,7 +67,7 @@ Gerenciador de ISOs com **janela** e **menu no terminal**: biblioteca de
 jogos, extrair, criar, verificar com o Redump e converter para GOD.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [iso2god-pt](https://github.com/lux-insider/iso2god-pt)
 
@@ -66,9 +77,7 @@ Conversor de ISO para **GOD** (Games on Demand), com assistente, conversão em
 lote e saída em JSON.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [extract-xiso-pt](https://github.com/lux-insider/extract-xiso-pt)
 
@@ -77,16 +86,6 @@ lote e saída em JSON.
 Lista, extrai, cria, reescreve e verifica imagens **XDVDFS** de Xbox e
 Xbox 360, com conferência pelo `.dat` do Redump. Escrito do zero a partir da
 documentação do formato.
-
-</td>
-<td width="50%" valign="top">
-
-### [Trainer RE5 TU5](https://github.com/lux-insider/trainer-re5-tu5)
-
-<a href="https://github.com/lux-insider/trainer-re5-tu5"><img src="https://raw.githubusercontent.com/lux-insider/trainer-re5-tu5/main/docs/prints/caixa-codigo.png" alt="Trainer RE5 TU5"></a>
-
-Trainer do **Resident Evil 5** (TU5) para Xbox 360 RGH/JTAG, que confere o
-jogo e cada instrução antes de alterar a memória.
 
 </td>
 </tr>
