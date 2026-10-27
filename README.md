@@ -2,8 +2,8 @@
 
 Desenvolvedor independente, focado em **ferramentas para Xbox e Xbox 360**:
 editores de save, utilitários de imagens de disco e engenharia reversa de
-formatos de jogos. Tudo em **português**, gratuito, com código aberto e
-testado no console de verdade.
+formatos de jogos. Tudo em **português**, gratuito e testado no console de
+verdade.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Slint](https://img.shields.io/badge/Slint-2379F4?logo=slint&logoColor=white)
