@@ -18,7 +18,7 @@ verdade.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [BIOHAZARD 4 SAVE EDITOR](https://github.com/lux-insider/biohazard4-save-editor)
 
@@ -29,7 +29,7 @@ jogo: pesetas, vida, roupas e a maleta dos 20 slots, com armas, melhorias,
 munição e tesouros.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [BIOHAZARD 5 SAVE EDITOR](https://github.com/lux-insider/biohazard5-save-editor)
 
@@ -38,16 +38,6 @@ munição e tesouros.
 Editor de save do **Resident Evil 5** para Xbox 360 e PC (Steam), com o
 visual do jogo: Gold, desbloqueios, inventário, slots do Chris e da Sheva e
 assinatura automática do save.
-
-</td>
-<td width="33%" valign="top">
-
-### [BIOHAZARD 6 SAVE EDITOR](https://github.com/lux-insider/biohazard6-save-editor)
-
-<a href="https://github.com/lux-insider/biohazard6-save-editor"><img src="https://raw.githubusercontent.com/lux-insider/biohazard6-save-editor/main/docs/prints/inicio.jpg" alt="BIOHAZARD 6 SAVE EDITOR"></a>
-
-Editor de save do **Resident Evil 6** para Xbox 360 e PC (Steam): inventário
-dos 8 personagens com os limites do jogo, pontos e as 96 habilidades.
 
 </td>
 </tr>
